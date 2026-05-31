@@ -14,6 +14,7 @@ This is my personal portfolio website built using HTML and CSS.
 
 * HTML5
 * CSS3
+* JS
 * GitHub Pages
 
 ## Live Website
